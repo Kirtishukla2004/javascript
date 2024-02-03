@@ -1,0 +1,1 @@
+let url="https://api.openweathermap.org/data/2.5/weather?q=india&appid=987da06ce53a8fbcd13b31c0f8dc2424"

@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:#02022e;
+}
+.main{
+    margin: 7% 40% 50% 40%;
+    padding :55px 31px ;
+    border: 2px solid grey;
+    border-radius: 30px;
+    align-items: center;
+    justify-content: center;
+   background-color: #d8d8ddc7;
+    text-align: center;
+    color: #f9f6fb;
+}
+.img{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+input{
+    background-color: #e8ecef;
+    border: none;
+    font-size: 15px;
+    width: 222px;
+    /* margin-top: -111px; */
+    height: 30px;
+    border-radius: 30px;
+    margin-top: -43px;
+    outline: none;
+    padding: 2px;
+    padding-left: 10px;
+}
+
+p{
+    font-size: 30px;
+}
